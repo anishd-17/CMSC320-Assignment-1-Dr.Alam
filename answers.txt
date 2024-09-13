@@ -11,3 +11,7 @@ Answer: Data science can be applied to the field of finance. An example would be
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging allows you to preserve the history of all the changes made across branches while rebasing will overwrite it ot make it continuous. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in working with git and in developing machine learning models. 
